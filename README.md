@@ -2,11 +2,11 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-🔭 My name is `Muhammad Rasyid Ridho`. I’m `17 years old`. I live in `East Java, Indonesia`, 
+🔭 My name is `ALYEAA`. I’m `16 years old`. I live in `East Java, Indonesia`, 
 
 🏫 I'm a `student at Telkom Malang Vocational High School`
 
-🌱 I’m currently learning UI/UX Design, Web.
+🌱 I’m currently learning alya pride, Web.
 
 ## My statistics 📈 <br>
 ![](https://github-readme-stats.vercel.app/api?username=AlyaRusyda&show_icons=true&theme=github_dark)
