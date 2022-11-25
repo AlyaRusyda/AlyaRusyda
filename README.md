@@ -22,7 +22,7 @@
 
 
 
-<h5 align="center">Made With ❤️ by Allmhrst</h5>
+<h5 align="center">Made With ❤️ by alyea</h5>
 
 <!--
 **AlyaRusyda/AlyaRusyda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
