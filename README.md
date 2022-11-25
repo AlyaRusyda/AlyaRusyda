@@ -6,7 +6,7 @@
 
 🏫 I'm a `student at Telkom Malang Vocational High School`
 
-🌱 I’m currently learning anything to learn.
+🌱 I’m currently learning anything.
 
 ## My statistics 📈 <br>
 ![](https://github-readme-stats.vercel.app/api?username=AlyaRusyda&show_icons=true&theme=github_dark)
