@@ -1,4 +1,4 @@
-🔭 My name is `Alya Rusyda Maharistya`. I’m `16 years old`. I live in `East Java, Indonesia`, 
+🔭 My name is `Alya Rusyda Maharistya`. I’m `16 years old`.
 
 🏫 I'm a `student at Telkom Malang Vocational High School`
 
