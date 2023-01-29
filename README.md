@@ -11,6 +11,8 @@
 
 ![Alya Rusyda Maharistya's github stats](https://github-readme-stats.vercel.app/api?username=AlyaRusyda&show_icons=true&theme=github_dark)
 
+![Alya Rusyda Maharistya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlyaRusyda&theme=react-dark)
+
 <!--Sosmed-->
 ### Contact & Social Media :
  <a href="mailto:alyarusydam@gmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/-gmail:%20alyarusydam@gmail.com-ea4335?&style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
