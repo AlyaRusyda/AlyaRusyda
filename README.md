@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyaRusyda&show_icons=true&theme=github_dark)
 
-![Alya Rusyda Maharistya's github stats](https://github-readme-stats.vercel.app/api?username=AlyaRusyda&show_icons=true&theme=github_dark
+![Alya Rusyda Maharistya's github stats](https://github-readme-stats.vercel.app/api?username=AlyaRusyda&show_icons=true&theme=github_dark)
 
 <!--Sosmed-->
 ### Contact & Social Media :
