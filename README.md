@@ -7,11 +7,11 @@
 <!--Statistik-->
 ### Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyaRusyda&show_icons=true&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyaRusyda&layout=compact&theme=tokyonight" />
 
 ![Alya Rusyda Maharistya's github stats](https://github-readme-stats.vercel.app/api?username=AlyaRusyda&show_icons=true&theme=github_dark)
 
-![Alya Rusyda Maharistya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlyaRusyda&theme=react-dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=novalarama&theme=tokyonight_duo" alt="mystreak"/>
 
 <!--Sosmed-->
 ### Contact & Social Media :
