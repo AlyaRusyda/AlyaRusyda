@@ -1,3 +1,10 @@
+<img src="https://raw.githubusercontent.com/AlyaRusyda/AlyaRusyda/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AlyaRusyda/count.svg" />
+</p>
+
 🔭 My name is `Alya Rusyda Maharistya`. I’m `16 years old`.
 
 🏫 I'm a `student at Telkom Malang Vocational High School`
