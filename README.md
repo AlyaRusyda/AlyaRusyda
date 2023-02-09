@@ -7,9 +7,9 @@
 <!--Statistik-->
 ### Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlyaRusyda&theme=tokyonight_duo)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlyaRusyda&theme=githubtheme_dark)
 
-![](https://github-readme-stats.vercel.app/api?username=AlyaRusyda&show_icons=true&theme=tokyonight_duo)
+![](https://github-readme-stats.vercel.app/api?username=AlyaRusyda&show_icons=true&theme=githubtheme_dark)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlyaRusyda&theme=tokyonight_duo" alt="mystreak"/>
 
